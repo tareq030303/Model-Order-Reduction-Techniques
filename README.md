@@ -1,1 +1,0 @@
-# Model-Order-Reduction-Techniques
